@@ -1,6 +1,11 @@
-# textly
+# Textly
 
 Textly is a sleek and stylish texting app with a unique and simple design.
+
+# Screenshots
+
+![Home Screen](https://github.com/hunterhines34/Textly/blob/master/Screen%20Shot%202019-11-11%20at%205.44.44%20PM.png)
+![Chats Screen](https://github.com/hunterhines34/Textly/blob/master/Screen%20Shot%202019-11-11%20at%205.46.38%20PM.png)
 
 ## Getting Started
 
